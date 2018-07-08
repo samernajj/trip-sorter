@@ -28,11 +28,11 @@ If you don't have composer, you can get it from [Composer](https://getcomposer.o
 
 1- clone the project/reposiory on your machine
 ```
-git clone https://github.com/samernajj/tripSorter.git
+git clone https://github.com/samernajj/trip-sorter.git
 ```
 2- go to the project
 ```
-cd tripSorter
+cd trip-sorter
 ```
 3- composer install dependencies 
 ```
